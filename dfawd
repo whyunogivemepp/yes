@@ -1,0 +1,5 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Slap%20Battles")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testerhubplayer/Slap-battle/main/Shukuchi_slap_farm_V3.lua"))()
+loadstring(game:HttpGet('https://rawscripts.net/raw/Slap-Battles-KykyryzoB-Hub-SB-9008'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChaosBringerTeam/fytafjkgawjkfgwakijfgawghio8u/main/vqKMWY6x9vSDxzpjhHWTwd8FEaKtIFOD"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua"))()
